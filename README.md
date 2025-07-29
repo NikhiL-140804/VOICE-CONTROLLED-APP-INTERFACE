@@ -24,3 +24,6 @@ This task helped me gain hands-on experience with voice-first UX design, which i
 
 #OUTPUT:
 
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/979e2833-074d-4219-be7d-f9c106b81c59" />
+
+LINK: https://www.figma.com/design/2GQYDedIvBLH7mVD0Xn8n3/TASK-4?t=BNoEub0XpRVFgPvu-1
